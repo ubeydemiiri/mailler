@@ -1,0 +1,55 @@
+.pempe {
+    color: #ff00ae;
+    text-decoration: none;
+  }
+  .bg-pempe {
+    background: #ff00ae;
+    text-decoration: none;
+  }
+  .ters:hover {
+    color: #ff00ae;
+    background: #000000;
+    border: 2px solid #ff00ae;
+  }
+  .ters-pempe:hover {
+    color: white;
+    background: #ff00ae;
+    border: 2px solid #ff00ae;
+  }
+  
+  .bg-pempe-white{
+    color: white;
+    background: #ff00ae;
+  }
+  .porder-pempe {
+    border: 2px solid #ff00ae;
+  }
+  .mor {
+    color: blueviolet;
+  }
+  .mt-ters {
+    margin-top: -3rem;
+  }
+  .img-style{
+      width: 50px;
+  }
+  .border-hover:hover{
+      border: 2px solid #1100ff;
+  }
+  .fs-hover:hover{
+      font-size: 20px;
+      color: #ff00ae;
+  }
+  .mt-7{
+      margin-top: -30px;
+  }
+  
+  .me-6{
+  margin-left: -4rem;
+  }
+  .me-7{
+    margin-left: -5rem;
+    }
+    .me-right{
+      margin-left: 18rem;
+    }
